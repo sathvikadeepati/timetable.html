@@ -1,0 +1,21 @@
+.body{
+    text-align:center;
+}
+.head{
+    width:100%;
+}
+.vishnu{
+    width:90%;
+}
+.right{
+    text-align: right;
+    width:88%;
+}
+.left{
+    /*width:20%;*/
+    text-align: left;
+}
+.table{
+    text-align: center;
+    border-width: 1px;
+}
